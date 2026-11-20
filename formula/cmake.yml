@@ -1,0 +1,5 @@
+summary: Cross-platform make
+webpage: https://www.cmake.org/
+version: 3.31.12 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/cmake-3.31.12-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: 006fb80e2268238457f232b020c9a0702f5383799a7a3c4025116eb903812123

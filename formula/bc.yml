@@ -2,4 +2,4 @@ summary: Arbitrary precision numeric processing language
 webpage: https://www.gnu.org/software/bc
 version: 1.08.2 
 bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/bc-1.08.2-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: 461c7f008cd76d373c2f771631410a41a72bef358c1c178ab2ebdfdf7ab0ce3e
+bin-sha: 227dbf3b7ea2402fcc3959a68238c56ccf841a7ad61a6ff7cc81aba5457448c8

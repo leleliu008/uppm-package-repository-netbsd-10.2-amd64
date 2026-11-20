@@ -2,4 +2,4 @@ summary: A free and open-source lexer generator for C/C++, Go and Rust with a fo
 webpage: https://re2c.org/
 version: 4.2 
 bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/re2c-4.2-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: f5575cd0158c7961c8d0e51ac9fe64e357b92c8f522ded1b1cc036f51468dc6f
+bin-sha: e5f4ea455ce8252399350cd956280e39ea5b3dbeedb15792ad82b7d6d665300c

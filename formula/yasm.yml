@@ -2,4 +2,4 @@ summary: Yet another assembler, a complete reimplementation of NASM
 webpage: https://github.com/yasm/yasm
 version: 2026.11.20 
 bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/yasm-2026.11.20-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: ef7adcbfdca638aab3ca7a8aea0e92dae766f7a96a549ad620813fffec4074ee
+bin-sha: 859fa2f03c8f87d784576cf3ff3373c16d61b7967e5deed842159d5282630e0c

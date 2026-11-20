@@ -2,4 +2,4 @@ summary: A collections of command-line utilities provided by libxml2
 webpage: https://gitlab.gnome.org/GNOME/libxml2
 version: 2.15.3 
 bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/xmlutils-2.15.3-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: 4d1328364aff5dee1c3db0540456392b4b96c0fc0f3b71ce388a2ba5e0aa3b2d
+bin-sha: 684ff4bac187f846e6a453561fddc9cc3069e588befab1b5c28e62789cc3c475

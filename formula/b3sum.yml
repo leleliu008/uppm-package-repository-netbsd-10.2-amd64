@@ -2,4 +2,4 @@ summary: A command line utility for calculating BLAKE3 hashes
 webpage: https://github.com/BLAKE3-team/BLAKE3
 version: 1.8.7 
 bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/b3sum-1.8.7-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: 0ee64d734e6430f98c950ccb6bb3743dc5ab4d0e4480fb229e8e3a17a69d4ccf
+bin-sha: 5e6b77bb9453b649426e59b72d65c3930a9ab161d1e53726674c0355c975da1d
