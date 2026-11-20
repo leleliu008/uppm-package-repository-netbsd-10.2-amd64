@@ -1,0 +1,5 @@
+summary: A popular data compression program developed by GNU
+webpage: https://www.gnu.org/software/gzip
+version: 1.14 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/gzip-1.14-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: d3df6fff5c7db4892070e4d27e4637d029cabfc2801275dfa9c95c3cb9d59f4a

@@ -1,0 +1,5 @@
+summary: A command-line utility to print your currently running system information
+webpage: https://github.com/leleliu008/sysinfo
+version: 2026.11.20 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/sysinfo-2026.11.20-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: 975f1c0a082a1eeebf5cc9d7ef3e51df061153c2886a4b3bbe4a9a0baa81637e

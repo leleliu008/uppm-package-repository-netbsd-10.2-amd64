@@ -1,0 +1,5 @@
+summary: A collection of command-line tools for manipulating PostScript Type 1 fonts
+webpage: https://www.lcdf.org/type/
+version: 1.42 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/t1utils-1.42-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: b25c4ac1355b1a505070986c59b66eed0110395934d2308f18f1c9df1682d89f

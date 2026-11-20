@@ -1,0 +1,5 @@
+summary: Universal Prebuild Package Manager
+webpage: https://github.com/leleliu008/uppm
+version: 0.17.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/uppm-0.17.0-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: 46c020b7692aefeaf65d81590142747db76bd44ba8e8cc8da2f3b86fb74310ed
