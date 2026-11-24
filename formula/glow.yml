@@ -1,5 +1,5 @@
 summary: A terminal based markdown reader
 webpage: https://github.com/charmbracelet/glow
-version: 2.1.2 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/glow-2.1.2-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: bf810c35fa9e88e38448c22d241b768f567fe03d925de8f4d9500fb75aba4dbf
+version: 3.0.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.24/glow-3.0.0-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: 40b2ee74b02e0ffb7420a126a16d7366935519a7f5403b3e3f7973f336b3f87d

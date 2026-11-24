@@ -1,5 +1,5 @@
 summary: A command-line tool for synchronizing files
 webpage: https://rsync.samba.org/
 version: 3.5.2 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/rsync-3.5.2-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: 1a597ee1ffddc620900ca5190334bbdbbc3054fcba14f51f4083137332c0ef77
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.24/rsync-3.5.2-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: 2037e2ffd21d31abad7861a7c7c86888cb67754e557861d77b5d3d470970f371

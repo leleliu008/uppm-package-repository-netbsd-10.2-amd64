@@ -1,5 +1,5 @@
 summary: A command-line tool for extracting zip-compressed archives(.zip files)
 webpage: https://infozip.sourceforge.io/UnZip.html
 version: 6.0.32 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/unzip-6.0.32-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: f68c9cf76f697d08369568c5f5159db33be32450f32133dcb7afd273c7e490dd
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.24/unzip-6.0.32-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: a35142a694052bdb12b84543dcb62e6f8a75268168f4164516064550c4e616a8

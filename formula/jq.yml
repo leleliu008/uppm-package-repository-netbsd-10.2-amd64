@@ -1,5 +1,5 @@
 summary: A lightweight and flexible command-line JSON processor
 webpage: https://jqlang.github.io/jq/
 version: 1.8.2 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/jq-1.8.2-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: 499e11e17b87caccc9c5088472e0a5744b7c77b8225274beb51e962efaccb9d4
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.24/jq-1.8.2-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: 6b39215bc10eb17a6818d11d43504e0755bb76ea8fa1416f41b676eb8af9ff08

@@ -1,5 +1,5 @@
 summary: Apply a diff file to an original
 webpage: https://savannah.gnu.org/projects/patch
 version: 2.8 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/patch-2.8-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: 9e34b0f9bc6e101ed6b44638890d14275a1d2f3d96bd64e4e3cef87684296f1d
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.24/patch-2.8-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: 84020c953c7d7590424eef68cb637a3b3b0940802a357ab3f27dafdaf34c53e0

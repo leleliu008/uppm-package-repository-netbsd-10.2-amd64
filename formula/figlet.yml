@@ -1,5 +1,5 @@
 summary: Banner-like program prints strings as ASCII art
 webpage: https://www.figlet.org/
 version: 2.2.5 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/figlet-2.2.5-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: 53b9a60d842951b0e0310dd72e2b035ee2618bcb191b932b09e5baa1269638af
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.24/figlet-2.2.5-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: d4dfe4171e469c3a64cb9ec8c6e50a703390a8ac9a6f76c2516101c2eeb483a2

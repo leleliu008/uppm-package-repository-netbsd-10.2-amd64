@@ -1,5 +1,5 @@
 summary: A command-line tool to help you insert the correct compiler options when compiling objects and/or linking libraries
 webpage: https://freedesktop.org/wiki/Software/pkg-config
 version: 0.29.2 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/pkg-config-0.29.2-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: a160aecb3418556f7c44b4ed8729839e9443d4d41a9dd671fd242754ee2f1d73
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.24/pkg-config-0.29.2-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: 4241360a0ca62c75be943d64c40800485439874c56d3b180ac42ee3c3f6105e8

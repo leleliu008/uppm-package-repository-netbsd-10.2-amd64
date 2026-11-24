@@ -1,5 +1,5 @@
 summary: GNU File, Shell, and Text utilities
 webpage: https://www.gnu.org/software/coreutils
 version: 9.12 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/coreutils-9.12-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: d9e8869bd8f31e2991b41540a025d5e4544e84269b6e8d925bfe781449f9b911
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.24/coreutils-9.12-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: 2d26292c179ee7ac5046566f61fda34a775cc055753f5f5add41ffac22495e61

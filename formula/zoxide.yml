@@ -1,5 +1,5 @@
 summary: A shell extension to navigate your filesystem faster
 webpage: https://github.com/ajeetdsouza/zoxide
 version: 0.10.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/zoxide-0.10.0-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: 7d6f5ff695d034f49613871f488500221278b583d500ad7844566bc7a30f4165
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.24/zoxide-0.10.0-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: ef96d531e4570dd5690904b21038f7e59b7202954f7f59c417db8053b8e72581

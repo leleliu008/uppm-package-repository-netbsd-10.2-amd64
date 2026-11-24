@@ -1,5 +1,5 @@
 summary: Convert text between DOS, UNIX, and Mac formats
 webpage: https://waterlander.net/dos2unix/
 version: 7.5.7 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.20/dos2unix-7.5.7-netbsd-10.2-amd64.release.tar.xz 
-bin-sha: 9ba2c2c66635181e3bf3607b5cc37c19efb4e4dd3eaf30596239a6eee8e3785a
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.2-amd64/releases/download/2026.11.24/dos2unix-7.5.7-netbsd-10.2-amd64.release.tar.xz 
+bin-sha: 25b5aa91b51f612b06486b6acff8539dc25290b931b676dc9984b16aef13f62d
